@@ -236,6 +236,8 @@ nav {
   justify-content: center;
   align-items: center;
   background-image: url("./assets/logo/ide-seduh.png");
+  background-image: url("./assets/logo/ide-seduh_2_horizontal.png");
+  background-image: url("./assets/logo/ide-seduh_2_vertical.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -590,7 +592,21 @@ footer {
 }
 
 
+.section {
+  animation: up 1s;
+}
 
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translatey(15px);
+  }
+
+  to {
+    opacity: 1;
+    /* transform: translate(0px); */
+  }
+}
 
 @media (max-width: 1200px) {
   .container {
