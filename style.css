@@ -17,30 +17,32 @@ html {
   text-decoration: none;
 }
 
-a:link {
-  color: red;
-}
-
-a:visited {
-  color: var(--text-color-h1);
-}
-
-a:hover {
-  color: var(--text-color-h1);
-}
-
-a:active {
-  color: var(--text-color-h1);
-}
-
 *::-webkit-scrollbar {
-  width: 1px;
   display: none;
 }
 
 *::-webkit-scrollbar-track {
   display: none;
-  background: orange;
+  background-color: var(--bg-section);
+}
+
+a:link {
+  /* colovar(--text-color-white); */
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+
+}
+
+a:hover {
+  color: inherit;
+}
+
+a:active {
+  color: inherit;
+
 }
 
 @font-face {
@@ -51,7 +53,6 @@ a:active {
 @font-face {
   font-family: AvenirMedium;
   src: url('./font/AvenirMedium.ttf') format('truetype');
-
 }
 
 :root {
@@ -73,6 +74,7 @@ a:active {
   --text-p: 1rem;
 
   --text-color-white: #f9fafb;
+  --text-color-blue: #0d629b;
   --text-color-green: #16a34a;
   --text-color-p: #6b7280;
   --text-color-h1-1: #2f3b41;
@@ -84,10 +86,12 @@ a:active {
   --font-weight-500: 500;
   --font-weight-700: 700;
 
+  --bg-buttons-right: #0071BC;
   --bg-buttons-right: #6c757d;
-  --bg-nav: #5A6675;
   --bg-section: #5A6675;
-  --bg-section-light: #8b99aa;
+  --bg-section: #0071BC;
+
+  --bg-nav: #5A6675;
   --bg-footer: #5A6675;
   --bg-green: #16a34a;
 
@@ -213,6 +217,7 @@ nav {
   /* min-height: calc(100vh - 4rem + var(--nav-height) - var(--footer-height)); */
   margin: 0 auto;
   margin-top: 1rem;
+  padding-bottom: 2rem;
   border-radius: .25rem;
   box-shadow: var(--box-shadow);
   background-color: var(--bg-div-container);
@@ -413,7 +418,7 @@ nav {
   /* flex-wrap: wrap;*/
   justify-content: left;
   align-items: center;
-  margin: 2rem;
+  margin-top: 2rem;
 }
 
 .orgaos-participantes p {
@@ -540,6 +545,7 @@ details>ul {
   line-height: normal;
   color: var(--text-color-h1-2);
   background-color: transparent;
+  line-height: 1.4;
 }
 
 .lista-sumario span {
