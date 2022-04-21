@@ -92,7 +92,9 @@ a:active {
   --bg-section: #0071BC;
 
   --bg-nav: #5A6675;
-  --bg-footer: #5A6675;
+  --bg-footer-lines: #fdfdfdd7;
+  --bg-footer: #060a11d7;
+  /* --bg-footer: #18191A; */
   --bg-green: #16a34a;
 
   /* --bg-div-container: #f9fafb; */
@@ -430,7 +432,6 @@ nav {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: left;
   align-items: center;
   gap: .5rem;
 }
@@ -586,15 +587,22 @@ details>ul {
 footer {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   width: 100%;
   height: var(--footer-height);
   /* height: calc(100vh - (80vh - vaR(--nav-height) + 2vh)); */
   background-color: var(--bg-footer);
-  color: var(--text-color-white);
-  font-size: var(--text-h5);
+  border-top: .1rem solid var(--bg-footer-lines);
+
   margin-top: 3rem;
+  padding: 3rem 2rem;
+}
+
+footer p {
+  color: var(--text-color-p);
+  font-size: calc(var(--text-p) - 3px);
+  margin-right: 2rem;
 }
 
 
@@ -614,6 +622,13 @@ footer {
   }
 }
 
+@media (min-width: 1900px) {
+  .container {
+    width: 65%;
+    /* height: 35rem; */
+  }
+}
+
 @media (max-width: 1400px) {
   .container {
     max-width: 95%;
@@ -629,16 +644,29 @@ footer {
 
 @media (max-width: 850px) {
 
-  .logo>h1,
-  .geoPortal>h1 {
+  .logo,
+  .geoPortal {
     display: none;
-    /* font-size: var(--text-h5);
-    font-weight: var(--font-weight-p);
-    color: var(--text-color-light); */
+  }
+
+  .navbar-menu ul {
+    justify-content: center;
   }
 
   .section {
     flex-direction: column;
+  }
+
+  .container-left {
+    display: none;
+  }
+
+  .container-right {
+    margin: 0 2rem;
+  }
+
+  .container-right h1 {
+    text-align: center;
   }
 
   .wrap-section-left iframe {
@@ -650,11 +678,19 @@ footer {
     text-align: center;
     justify-content: center;
   }
+
+  .wrap-section-left {
+    display: none;
+  }
+
+  .wrap-apoio {
+    justify-content: center;
+  }
 }
 
-@media (min-width: 1900px) {
-  .container {
-    width: 65%;
-    /* height: 35rem; */
+@media (max-width: 600px) {
+  .nav-header ul li a {
+    font-size: calc(var(--text-p) - 5px);
+    font-weight: var(--font-weight-200);
   }
 }
