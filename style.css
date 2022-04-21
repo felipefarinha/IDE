@@ -268,7 +268,7 @@ nav {
   font-weight: var(--font-weight-700);
   color: var(--text-color-h1-2);
   line-height: 1.2;
-  margin: 1rem 0;
+  margin-bottom: 1rem;
   /* text-transform: uppercase; */
 }
 
@@ -614,7 +614,7 @@ footer {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
   .container {
     max-width: 95%;
   }
