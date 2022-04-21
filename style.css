@@ -137,17 +137,19 @@ body {
 nav {
   display: flex;
   width: 100%;
-  height: var(--nav-height);
-  /* height: auto; */
+  height: auto;
+  height: 2rem;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   background-color: var(--bg-nav);
-  transition: var(--trans-normal);
 }
 
+
 .logo img {
-  margin-right: .5rem;
+  margin-right: .2rem;
+  /* width: 1.8rem; */
+  transform: scale(.8);
 }
 
 .logo h1::before {
@@ -179,11 +181,11 @@ nav {
 }
 
 .nav-header ul {
-  flex: 70%;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  transform: scale(.9);
 }
 
 .nav-header ul li {
@@ -192,12 +194,9 @@ nav {
 }
 
 .nav-header ul li a {
-  font-size-adjust: inherit;
   font-size: var(--text-h5);
-  font-weight: var(--font-weight-500);
+  line-height: 0rem;
   color: var(--text-color-white);
-  line-height: 16px;
-  text-align: start;
   opacity: 0.8;
   display: flex;
   flex-direction: row;
@@ -230,9 +229,9 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: center;
-  align-items: flex-start;
-  margin-top: 2rem;
+  /* align-items: center; */
+  margin: 2rem 0;
+  margin-bottom: 1rem;
   /* box-shadow: var(--box-shadow-header); */
 }
 
