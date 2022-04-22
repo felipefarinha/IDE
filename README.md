@@ -4,17 +4,16 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Licença](#licença)
-* [Fontes de pesquisa](#fontes-de-pesquisa)
 
 
-# IDE/ DF
+# IDE-DF
 ### O Instituto de Desenvolvimento Econômico e Social Urbano (IDE) é um órgão público federal, responsável pela gestão e desenvolvimento da infraestrutura de dados espaciais do DF.
-> Acesse a página web pelo link [IDE / DF](https://digeo-seduh.github.io/IDE/)
+> Acesse a página web pelo link [IDE-DF](https://digeo-seduh.github.io/IDE/)
 
 
 ## Recursos
 
-A página IDE/DF proporciona ...
+A página IDE-DF proporciona ...
 
 ...
 
@@ -26,14 +25,16 @@ A página IDE/DF proporciona ...
 ## Funcionalidades e Demonstração da Aplicação
 
 ###
+
+<img src="https://raw.githubusercontent.com/DIGEO-SEDUH/IDE/main/assets/imagens/print-IDE-DF.png" min-width="400px" max-width="400px" width="600px" alt="print site IDE">
+
+
 ...
 
 ...
 
 ...
 
-
----
 
 ## Tecnologias-utilizadas
 
@@ -58,29 +59,16 @@ console.log(`userId: ${userId(user)} `); // "userId: 42"
 
 ```
 
-
 ## Licença
 
-⚖ Tipos de licenças [LICENÇA](LICENSE.md) 
+⚖ Licença MIT
 
-
-
-### Fontes de pesquisa
-
-[Developer mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS)<br>
-[Stack oveflow](https://pt.stackoverflow.com/)
 
 ## Status do projeto
 
-> :construction: Versão 1.0 de laçamento :construction:
+:construction: Versão 1.0 lançamento :construction:
 
-<br><br><br>
+![IDE](https://github-readme-stats.vercel.app/api/pin/?username=DIGEO-SEDUH&repo=IDE)
 
-
-
-[FelipeFarinha](https://github.com/felipefarinha/) |[FelipeFarinha](https://github.com/felipefarinha/) | [FelipeFarinha](https://github.com/felipefarinha/)
----|---|---
-<img src="https://avatars.githubusercontent.com/u/61066061?v=4" width="100px;" alt="imagem"/>  | <img src="https://avatars.githubusercontent.com/u/61066061?v=4" width="100px;" alt="imagem"/> | <img src="https://avatars.githubusercontent.com/u/61066061?v=4" width="100px;" alt="imagem"/>
-
-
-[⬅ Voltar a página principal](https://github.com/felipefarinha) ⬆️ [Voltar ao Índice](#índice)
+---
+[⬅ Voltar a página principal](https://github.com/DIGEO-SEDUH) ⬆️ [Voltar ao Índice](#índice)
