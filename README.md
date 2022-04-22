@@ -8,7 +8,7 @@
 
 # IDE-DF
 ### O Instituto de Desenvolvimento Econômico e Social Urbano (IDE) é um órgão público federal, responsável pela gestão e desenvolvimento da infraestrutura de dados espaciais do DF.
-> Acesse a página web pelo link [IDE-DF](https://digeo-seduh.github.io/IDE/)
+> Acesse a página web pelo link <a href="https://digeo-seduh.github.io/IDE" target="_blank">IDE-DF</a>
 
 
 ## Recursos
