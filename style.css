@@ -516,7 +516,7 @@ summary:before {
   left: 1rem;
   transform: rotate(0);
   transform-origin: .2rem 50%;
-  transition: .25s transform ease;
+  transition: .45s transform ease;
 }
 
 details[open]>summary:before {
@@ -579,12 +579,7 @@ details>ul {
   font-weight: var(--font-weight-400);
   color: var(--text-color-h1-2);
 }
-.lista-sumario h3 {
-  font-size: 1.1rem;
-  font-weight: var(--font-weight-700);
-  margin-bottom: .5rem;
 
-}
 .lista-sumario p, .lista-sumario span {
   margin: 1rem 0;
   color: var(--text-color-h1-2);
