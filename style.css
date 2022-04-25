@@ -417,15 +417,28 @@ nav {
 .orgaos-participantes {
   display: flex;
   flex-direction: column;
-  /* flex-wrap: wrap;*/
   justify-content: left;
   align-items: center;
-  margin-top: 2rem;
 }
 
-.orgaos-participantes p {
-  font-size: var(--text-h3);
-  margin: 1rem 0 2rem 0;
+.hr {
+  border: 0;
+  width: 70%;
+  height: 2px;
+  overflow: visible;
+  background-image: linear-gradient(to right, transparent, var(--bg-nav), transparent); 
+  text-align: center;
+  margin: 3rem;
+}
+
+.hr::after {
+  content: "Orgãos participantes";
+  /* display: inline-block; */
+  position: relative; 
+  top: -1rem;
+  font-size: 1.4rem;
+  padding: 0 1rem;
+  background: white;
 }
 
 .wrap-apoio {
