@@ -88,8 +88,8 @@ a:active {
 
   --bg-buttons-right: #0071BC;
   --bg-buttons-right: #6c757d;
-  --bg-section: #5A6675;
   --bg-section: #0071BC;
+  --bg-section: #5A6675;
 
   --bg-nav: #5A6675;
   --bg-footer-lines: #fdfdfdd7;
@@ -248,6 +248,7 @@ nav {
   background-size: contain;
   background-position: center;
   margin-right: 1rem;
+  filter: grayscale(100%);
 }
 
 .container-left img {
@@ -321,7 +322,6 @@ nav {
 
 .active {
   background-color: var(--bg-section);
-  /* background-color: var(--text-color-green); */
   color: var(--text-color-white);
 }
 
