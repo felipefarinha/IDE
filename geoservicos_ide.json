@@ -1,0 +1,1622 @@
+{
+    "CMBDF_Area queimada do ano de 2011": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2011",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/1",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2011.zip",
+        "ide_metadado": "37082cef-3e34-44e5-87ef-cc15e1c140b3",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Barragens": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "HIDROGRAFIA",
+        "ide_camada": "Barragens",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/151",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/barragens.zip",
+        "ide_metadado": "b9af3c3f-b36a-4f27-92fc-49a43667f4b1",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2013": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2013",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/2",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2013.zip",
+        "ide_metadado": "37082cef-3e34-44e5-87ef-cc15e1c140b3",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2014": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2014",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/3",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2014.zip",
+        "ide_metadado": "37082cef-3e34-44e5-87ef-cc15e1c140b3",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2015": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2015",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/4",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2015.zip",
+        "ide_metadado": "37082cef-3e34-44e5-87ef-cc15e1c140b3",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2016": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2016",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/5",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2016.zip",
+        "ide_metadado": "37082cef-3e34-44e5-87ef-cc15e1c140b3",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2017": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2017",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/6",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2017.zip",
+        "ide_metadado": "37082cef-3e34-44e5-87ef-cc15e1c140b3",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2018": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2018",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/7",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2018.zip",
+        "ide_metadado": "37082cef-3e34-44e5-87ef-cc15e1c140b3",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2019": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2019",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/8",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2019.zip",
+        "ide_metadado": "37082cef-3e34-44e5-87ef-cc15e1c140b3",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2020": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2020",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/9",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2020.zip",
+        "ide_metadado": "897d50f5-f115-473d-b78c-41dbd7adea8d",
+        "ide_visualizacao": null
+    },
+    "CMBDF_Area queimada do ano de 2021": {
+        "ide_orgao": "CMBDF",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Area queimada do ano de 2021",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/10",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_queimada_do_ano_de_2021.zip",
+        "ide_metadado": "897d50f5-f115-473d-b78c-41dbd7adea8d",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Campos e Quadras": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Campos e Quadras",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/12",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/campos_e_quadras.zip",
+        "ide_metadado": "22fe3be6-795b-458a-abc6-14c024d04ab8",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cercas e Muros": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Cercas e Muros",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/13",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cercas_e_muros.zip",
+        "ide_metadado": "09f317fa-a06f-4da5-a3ff-aa11ea5d9611",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Cobertura",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/14",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura.zip",
+        "ide_metadado": "e950ff60-6b2a-4e77-ae36-27644877b2d0",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Marquises": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Marquises",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/15",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/marquises.zip",
+        "ide_metadado": "892cfe17-2c77-46d2-9f83-889eb2d662ae",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Pavimento": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Pavimento",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/16",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/pavimento.zip",
+        "ide_metadado": "d353bffe-e658-4dce-8e37-262f78d93b9b",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Edificacao": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Edificacao",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/17",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/edificacao.zip",
+        "ide_metadado": "c6a0d07c-9c73-4386-9bfa-7b1915ebb6e5",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Piscinas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Piscinas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/18",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/piscinas.zip",
+        "ide_metadado": "069bd3c2-7c9f-4895-aaa2-614bb1e70cd6",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Telheiro": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Telheiro",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/19",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/telheiro.zip",
+        "ide_metadado": "0d88915c-2c78-482a-b4bc-108d58088d09",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Unidades Autonomas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Unidades Autonomas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/20",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/unidades_autonomas.zip",
+        "ide_metadado": "28fe5dbb-2845-4d4d-8d65-848bfb0cb29e",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Lotes Registrados": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Lotes Registrados",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/21",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/lotes_registrados.zip",
+        "ide_metadado": "a4ca81b0-c56b-4386-9641-10d2dc1a0400",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Lotes Implantados": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Lotes Implantados",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/22",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/lotes_implantados.zip",
+        "ide_metadado": "18a7e3ce-0d17-4d20-a0d2-3d84fadc86dd",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Conjunto": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Conjunto",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/23",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/conjunto.zip",
+        "ide_metadado": "6557af45-7edb-4e26-b97a-7dce4bfb4a5c",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Quadras": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Quadras",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/24",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/quadras.zip",
+        "ide_metadado": "25ae1863-5f57-42e6-ac48-b5843fc1dad7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Setor": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Setor",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/25",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/setor.zip",
+        "ide_metadado": "c6e79c88-f804-4fd3-b989-0d67376794f0",
+        "ide_visualizacao": "https://www.geoportal.seduh.df.gov.br/geoportal/?extent=145663.154%2C8218954.9319%2C279013.4207%2C8287773.1945%2C31983&showLayers=CADASTRO_TERRITORIAL_6186%3BCADASTRO_TERRITORIAL_6186_14"
+    },
+    "SEDUH_Poligonais de Estudo do ETU": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Poligonais de Estudo do ETU",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/28",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/poligonais_de_estudo_do_etu.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Diretrizes de Sistema Viario": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Diretrizes de Sistema Viario",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/29",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/diretrizes_de_sistema_viario.zip",
+        "ide_metadado": "5f84e977-604f-4e5f-87e4-cb337aa3bc99",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Zoneamento das Diretrizes Urbanisticas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Zoneamento das Diretrizes Urbanisticas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/30",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/zoneamento_das_diretrizes_urbanisticas.zip",
+        "ide_metadado": "1a28e295-28e0-452c-a6eb-e8663c26f714",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Diretrizes Urbanisticas Especificas DIUPE": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Diretrizes Urbanisticas Especificas DIUPE",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/31",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/diretrizes_urbanisticas_especificas_diupe.zip",
+        "ide_metadado": "fb90f37e-c386-41d5-bf3c-56d767d223a2",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Diretrizes de Intervencao Viaria DIV": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Diretrizes de Intervencao Viaria DIV",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/32",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/diretrizes_de_intervencao_viaria_div.zip",
+        "ide_metadado": "aea81824-ac88-41ce-aefd-049389a3ffd7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Diretrizes de Paisagismo DIPA": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Diretrizes de Paisagismo DIPA",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/33",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/diretrizes_de_paisagismo_dipa.zip",
+        "ide_metadado": "851e953d-3cb2-4faa-aa36-d2d2fea12f83",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Diretrizes para Elaboracao de Plano de Ocupacao DIPO": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Diretrizes para Elaboracao de Plano de Ocupacao DIPO",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/34",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/diretrizes_para_elaboracao_de_plano_de_ocupacao_dipo.zip",
+        "ide_metadado": "4509a095-ec5e-4268-8ebd-46cec59f44a4",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Diretrizes de Requalificacao Urbana DIREQ": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Diretrizes de Requalificacao Urbana DIREQ",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/35",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/diretrizes_de_requalificacao_urbana_direq.zip",
+        "ide_metadado": "0c0810c7-1e6a-4c4f-8070-b205cd4f7156",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Diretrizes para Regularizacao de Entidades DIREN": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DIRETRIZES URBANISTICAS",
+        "ide_camada": "Diretrizes para Regularizacao de Entidades DIREN",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/36",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/diretrizes_para_regularizacao_de_entidades_diren.zip",
+        "ide_metadado": "2829f594-6c82-4484-8c9c-e9abcf7b0bde",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Projetos Complementares Aprovados": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Projetos Complementares Aprovados",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/38",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/projetos_complementares_aprovados.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Projetos Seduh": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Projetos Seduh",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/39",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/projetos_seduh.zip",
+        "ide_metadado": "2399a372-2fc9-46de-853a-06990397dbc7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Estacoes e Terminais": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Estacoes e Terminais",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/41",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/estacoes_e_terminais.zip",
+        "ide_metadado": "8a7717f7-a3ca-410c-ac07-7a057341090c",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Distancia de 400 metros": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Distancia de 400 metros",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/43",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/distancia_de_400_metros.zip",
+        "ide_metadado": "9865eb9d-b265-4c2d-b2f7-36cbc8b9a8cf",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Distancia de 600 metros": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Distancia de 600 metros",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/44",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/distancia_de_600_metros.zip",
+        "ide_metadado": "9865eb9d-b265-4c2d-b2f7-36cbc8b9a8cf",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Linhas de Transportes de Alta Densidade": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Linhas de Transportes de Alta Densidade",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/45",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/linhas_de_transportes_de_alta_densidade.zip",
+        "ide_metadado": "367f29e3-68f2-46c2-b8ea-f93240fe45c9",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Sistema Viario - 150m": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Sistema Viario - 150m",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/47",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/sistema_viario___150m.zip",
+        "ide_metadado": "531c192b-7b90-4f43-98b2-5e78c006931e",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Metro - 150m": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Metro - 150m",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/48",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/metro___150m.zip",
+        "ide_metadado": "531c192b-7b90-4f43-98b2-5e78c006931e",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Sistema Viario - 300m": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Sistema Viario - 300m",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/50",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/sistema_viario___300m.zip",
+        "ide_metadado": "8e1fde52-3eff-4c6a-99d6-4ac0dbe6699f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Metro - 300m": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Metro - 300m",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/51",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/metro___300m.zip",
+        "ide_metadado": "8e1fde52-3eff-4c6a-99d6-4ac0dbe6699f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Lote Luos": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LUOS",
+        "ide_camada": "Lote Luos",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/53",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/lote_luos.zip",
+        "ide_metadado": "47b511de-02c6-4f5e-8651-48fe8e1e9d75",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Mapa 1 - Macrozoneamento do Distrito Federal": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Mapa 1 - Macrozoneamento do Distrito Federal",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/55",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/mapa_1___macrozoneamento_do_distrito_federal.zip",
+        "ide_metadado": "2aa32752-6756-4191-b7df-c42505780cb7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Area de Protecao de Manancial": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Area de Protecao de Manancial",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/57",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_de_protecao_de_manancial.zip",
+        "ide_metadado": "fd84c185-7720-4f32-bf5c-1d7c3e768428",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Areas de Interesse Ambiental": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Areas de Interesse Ambiental",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/58",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/areas_de_interesse_ambiental.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Zoneamento do Distrito Federal": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Zoneamento do Distrito Federal",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/59",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/zoneamento_do_distrito_federal.zip",
+        "ide_metadado": "0ef96b7a-81a2-461f-9494-5454f991b87e",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Bacias Hidrograficas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Bacias Hidrograficas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/61",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/bacias_hidrograficas.zip",
+        "ide_metadado": "82238887-81fc-46c4-827e-a6c297f48aad",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Macrozona Rural de Uso Controlado": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Macrozona Rural de Uso Controlado",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/62",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/macrozona_rural_de_uso_controlado.zip",
+        "ide_metadado": "2aa32752-6756-4191-b7df-c42505780cb7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Mapa 1C - Unidades de Planejamento Territorial": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Mapa 1C - Unidades de Planejamento Territorial",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/63",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/mapa_1c___unidades_de_planejamento_territorial.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Parcelamento Urbano Isolado - Pontos": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Parcelamento Urbano Isolado - Pontos",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/66",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/parcelamento_urbano_isolado___pontos.zip",
+        "ide_metadado": "a284be77-0452-44d6-8208-3255f658f2a4",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Parcelamento Urbano Isolado - PUI": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Parcelamento Urbano Isolado - PUI",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/67",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/parcelamento_urbano_isolado___pui.zip",
+        "ide_metadado": "a284be77-0452-44d6-8208-3255f658f2a4",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Oferta de Areas Habitacionais": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Oferta de Areas Habitacionais",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/68",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/oferta_de_areas_habitacionais.zip",
+        "ide_metadado": "fccd3e50-0968-441e-bcff-1793f8cfb75d",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Setor Habitacional de Regularizacao": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Setor Habitacional de Regularizacao",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/69",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/setor_habitacional_de_regularizacao.zip",
+        "ide_metadado": "c5c5aa24-4a71-4802-8a67-4727e4616354",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Regulaziracao": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Regulaziracao",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/70",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/regulaziracao.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Estruturacao do Sistema Viario": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Estruturacao do Sistema Viario",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/72",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/estruturacao_do_sistema_viario.zip",
+        "ide_metadado": "259c84aa-8b2e-4856-91d0-a7300f7d6e67",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Rede Estrutural de Transporte Coletivo": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Rede Estrutural de Transporte Coletivo",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/73",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/rede_estrutural_de_transporte_coletivo.zip",
+        "ide_metadado": "29fa75d6-c752-452b-8029-ba0306f6b219",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Polos Multifuncionais": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Polos Multifuncionais",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/74",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/polos_multifuncionais.zip",
+        "ide_metadado": "a76cabef-974d-4e3b-affb-27c1367e3a40",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Estrategia de Revitalizacao de Conjuntos Urbanos": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Estrategia de Revitalizacao de Conjuntos Urbanos",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/75",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/estrategia_de_revitalizacao_de_conjuntos_urbanos.zip",
+        "ide_metadado": "db482534-5603-4739-be09-0707433a4258",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Conector Ambiental": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Conector Ambiental",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/77",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/conector_ambiental.zip",
+        "ide_metadado": "59c8868d-d661-49b5-9c26-bbd22a070820",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Area de Interesse Ambiental": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Area de Interesse Ambiental",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/78",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_de_interesse_ambiental.zip",
+        "ide_metadado": "47b32d7c-7f51-4552-a519-cbc45a359f9e",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Proposta de Novas Areas Ambientais": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Proposta de Novas Areas Ambientais",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/79",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/proposta_de_novas_areas_ambientais.zip",
+        "ide_metadado": "598b0e8a-21ec-4d59-8727-193b3ca643f9",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Macrozona de Protecao Integral": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Macrozona de Protecao Integral",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/80",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/macrozona_de_protecao_integral.zip",
+        "ide_metadado": "2aa32752-6756-4191-b7df-c42505780cb7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Area Rural com Protecao Ambiental": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Area Rural com Protecao Ambiental",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/81",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_rural_com_protecao_ambiental.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Macrozona Urbana": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Macrozona Urbana",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/82",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/macrozona_urbana.zip",
+        "ide_metadado": "2aa32752-6756-4191-b7df-c42505780cb7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Mapa 5 - Densidades Demograficas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Mapa 5 - Densidades Demograficas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/83",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/mapa_5___densidades_demograficas.zip",
+        "ide_metadado": "c5d58311-d7a7-4ad2-bc5d-fe07c02634d1",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Mapa 6 - Areas Economicas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Mapa 6 - Areas Economicas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/84",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/mapa_6___areas_economicas.zip",
+        "ide_metadado": "c365e2f2-8053-4983-8871-0304c77c900f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Hierarquia Viaria": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Hierarquia Viaria",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/86",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/hierarquia_viaria.zip",
+        "ide_metadado": "42bb5608-16f2-4c2c-bde3-3b10bf2bf5d2",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Area Economica": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Area Economica",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/87",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_economica.zip",
+        "ide_metadado": "c365e2f2-8053-4983-8871-0304c77c900f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Area de Contrato Especifico": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "PDOT",
+        "ide_camada": "Area de Contrato Especifico",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/88",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_de_contrato_especifico.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Projeto Proflora": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Projeto Proflora",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/90",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/projeto_proflora.zip",
+        "ide_metadado": "7889928c-87fa-4ecd-8a32-068b140ff976",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Articulacao SICAD 1000": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CARTOGRAFIA E TOPOGRAFIA",
+        "ide_camada": "Articulacao SICAD 1000",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/92",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/articulacao_sicad_1000.zip",
+        "ide_metadado": "90699d76-e3ee-48d0-9e87-a20c51c7dea6",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Articulacao 10000": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CARTOGRAFIA E TOPOGRAFIA",
+        "ide_camada": "Articulacao 10000",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/93",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/articulacao_10000.zip",
+        "ide_metadado": "06b351cd-37ed-4250-97d0-2b62ed38af41",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cartas 1 1000": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CARTOGRAFIA E TOPOGRAFIA",
+        "ide_camada": "Cartas 1 1000",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/94",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cartas_1_1000.zip",
+        "ide_metadado": "5cb1a35a-a22f-4b0a-acbc-0b90608456ee",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Levantamento Topografico": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CARTOGRAFIA E TOPOGRAFIA",
+        "ide_camada": "Levantamento Topografico",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/95",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/levantamento_topografico.zip",
+        "ide_metadado": "435b5e3b-4900-4d54-b94c-7fc6422c7377",
+        "ide_visualizacao": null
+    },
+    "SEDUH_App Lago Paranoa Cota 1000 80": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CARTOGRAFIA E TOPOGRAFIA",
+        "ide_camada": "App Lago Paranoa Cota 1000 80",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/96",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/app_lago_paranoa_cota_1000_80.zip",
+        "ide_metadado": "11713d84-aeb7-49dc-8a50-4ec0044e6d59",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Rede Geodesica": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CARTOGRAFIA E TOPOGRAFIA",
+        "ide_camada": "Rede Geodesica",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/97",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/rede_geodesica.zip",
+        "ide_metadado": "cf6755de-83ff-4bee-ab71-390d2f00f28d",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Concessao de Lotes": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CADASTRO TERRITORIAL",
+        "ide_camada": "Concessao de Lotes",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/99",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/concessao_de_lotes.zip",
+        "ide_metadado": "be5345d4-519d-4ba5-8237-3c20f96c888e",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Anexo I do Dec 41654": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE RURAL",
+        "ide_camada": "Anexo I do Dec 41654",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/104",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/anexo_i_do_dec_41654.zip",
+        "ide_metadado": "eeb5a679-2948-4d71-9e53-0d810ba238ac",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Pontos": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE RURAL",
+        "ide_camada": "Pontos",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/102",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/pontos.zip",
+        "ide_metadado": "a9cc00e0-a2d7-4ea6-a298-cb779d19cc33",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Poligonal": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE RURAL",
+        "ide_camada": "Poligonal",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/103",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/poligonal.zip",
+        "ide_metadado": "a9cc00e0-a2d7-4ea6-a298-cb779d19cc33",
+        "ide_visualizacao": null
+    },
+    "SEDUH_RLE Rural": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE RURAL",
+        "ide_camada": "RLE Rural",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/105",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/rle_rural.zip",
+        "ide_metadado": "3a434106-e09c-4597-8463-3692c88c5296",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Assentamentos Rurais": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE RURAL",
+        "ide_camada": "Assentamentos Rurais",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/106",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/assentamentos_rurais.zip",
+        "ide_metadado": "070a14e2-1a9c-45fe-8769-0a1dd9847f20",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Alvaras de Construcao": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Alvaras de Construcao",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/108",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/alvaras_de_construcao.zip",
+        "ide_metadado": "9ccc6b9b-9b90-44b8-818a-cced584b1c15",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Certidoes Urbanisticas Emitidas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Certidoes Urbanisticas Emitidas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/109",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/certidoes_urbanisticas_emitidas.zip",
+        "ide_metadado": "9bc6933a-34bc-46e1-85ff-33c14488db54",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cotas de Soleiras Emitidas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Cotas de Soleiras Emitidas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/110",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cotas_de_soleiras_emitidas.zip",
+        "ide_metadado": "9ccc6b9b-9b90-44b8-818a-cced584b1c15",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Concessao de Area Publica Subsolo da Lei 755": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Concessao de Area Publica Subsolo da Lei 755",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/111",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/concessao_de_area_publica_subsolo_da_lei_755.zip",
+        "ide_metadado": "1f9f11eb-50a6-49c9-89a2-e79b6e2e6bbb",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Concessao de Area Publica": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Concessao de Area Publica",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/112",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/concessao_de_area_publica.zip",
+        "ide_metadado": "1f9f11eb-50a6-49c9-89a2-e79b6e2e6bbb",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Empreendimento": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Empreendimento",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/114",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/empreendimento.zip",
+        "ide_metadado": "b2cee76a-137d-420a-8036-b3d3d35fa4e6",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Influencia Direta": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Influencia Direta",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/115",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/influencia_direta.zip",
+        "ide_metadado": "e880d9ee-e782-46df-b330-5b5026e27161",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Influencia Indireta": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Influencia Indireta",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/116",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/influencia_indireta.zip",
+        "ide_metadado": "7323bd5f-8d5b-4377-8bbf-732903905850",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Informativo Basico de Aprovacao de Projeto": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Informativo Basico de Aprovacao de Projeto",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/117",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/informativo_basico_de_aprovacao_de_projeto.zip",
+        "ide_metadado": "e1686bee-aeef-413f-b735-c8388dd3e7f0",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Projetos Especiais": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Projetos Especiais",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/118",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/projetos_especiais.zip",
+        "ide_metadado": "edb04c2d-dae7-4bb2-92d0-452a921186dc",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Projetos aprovados": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Projetos aprovados",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/119",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/projetos_aprovados.zip",
+        "ide_metadado": "a0cc9d14-11c8-4962-a972-175625fb4928",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Rede subterranea": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Rede subterranea",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/120",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/rede_subterranea.zip",
+        "ide_metadado": "0c83836b-76fd-4bfd-93b7-638fac5371ed",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Zonas de Alta Demanda de Transportes Individual": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Zonas de Alta Demanda de Transportes Individual",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/121",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/zonas_de_alta_demanda_de_transportes_individual.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Zona de Protecao Aerea": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Zona de Protecao Aerea",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/122",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/zona_de_protecao_aerea.zip",
+        "ide_metadado": "bf5ac374-e670-473b-8ada-fcbe8aa2870e",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Planos de Ocupacao de Unidades Especiais - POUE": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Planos de Ocupacao de Unidades Especiais - POUE",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/124",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/planos_de_ocupacao_de_unidades_especiais___poue.zip",
+        "ide_metadado": "cd309056-f353-4cf1-b3b4-1eb417b096ef",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Planos de Ocupacao de Engenhos Publicitarios - POEP": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Planos de Ocupacao de Engenhos Publicitarios - POEP",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/125",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/planos_de_ocupacao_de_engenhos_publicitarios___poep.zip",
+        "ide_metadado": "e133e00d-8396-40c4-a939-faa3feddeb95",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Planos de Ocupacao de Quiosques e Trailer - POQT": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Planos de Ocupacao de Quiosques e Trailer - POQT",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/126",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/planos_de_ocupacao_de_quiosques_e_trailer___poqt.zip",
+        "ide_metadado": "38193b98-e091-49f3-86f0-03e565e5ae6c",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Situacao do cadastro do POQT": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CONTROLE URBANO",
+        "ide_camada": "Situacao do cadastro do POQT",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/127",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/situacao_do_cadastro_do_poqt.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Populacao por Setor Censitario": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DADOS CENSITARIOS",
+        "ide_camada": "Populacao por Setor Censitario",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/129",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/populacao_por_setor_censitario.zip",
+        "ide_metadado": "a666eeb9-604b-4cbc-8115-66ec13a1c9d2",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Populacao por Regiao Administrativa": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "DADOS CENSITARIOS",
+        "ide_camada": "Populacao por Regiao Administrativa",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/130",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/populacao_por_regiao_administrativa.zip",
+        "ide_metadado": "metadata/3854be7e-f04d-4253-947a-f959b5ad7ee9",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Escolas Publicas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "EQUIPAMENTOS URBANOS",
+        "ide_camada": "Escolas Publicas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/132",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/escolas_publicas.zip",
+        "ide_metadado": "metadata/7fdec3ef-8d31-4eab-bb67-dcc4482338f2",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Espacos Culturais": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "EQUIPAMENTOS URBANOS",
+        "ide_camada": "Espacos Culturais",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/133",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/espacos_culturais.zip",
+        "ide_metadado": "549c7302-758d-45b8-b75e-6981aa918bdf",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Espacos comunitarios": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "EQUIPAMENTOS URBANOS",
+        "ide_camada": "Espacos comunitarios",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/134",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/espacos_comunitarios.zip",
+        "ide_metadado": "821defc2-fb03-4d40-a0b6-110e0e76d383",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Equipamentos de Saude": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "EQUIPAMENTOS URBANOS",
+        "ide_camada": "Equipamentos de Saude",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/135",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/equipamentos_de_saude.zip",
+        "ide_metadado": "69637d22-21cd-4e5b-ad1a-86c19b7f46df",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Equipamentos de Seguranca": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "EQUIPAMENTOS URBANOS",
+        "ide_camada": "Equipamentos de Seguranca",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/136",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/equipamentos_de_seguranca.zip",
+        "ide_metadado": "e459399f-aba2-444f-be66-eb5c0810835c",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Feiras Livres": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "EQUIPAMENTOS URBANOS",
+        "ide_camada": "Feiras Livres",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/137",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/feiras_livres.zip",
+        "ide_metadado": "234838bc-8622-401b-a7c4-411e3c5633d6",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Mobiliario Esporte e Lazer": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "EQUIPAMENTOS URBANOS",
+        "ide_camada": "Mobiliario Esporte e Lazer",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/138",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/mobiliario_esporte_e_lazer.zip",
+        "ide_metadado": "ba2bf94f-49fa-4700-ba79-5525433c7d1d",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Parques Urbanos": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "EQUIPAMENTOS URBANOS",
+        "ide_camada": "Parques Urbanos",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/139",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/parques_urbanos.zip",
+        "ide_metadado": "251e09e5-7467-4bce-a94f-0db228be91ab",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Nascente - Por do Sol": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "GEOSERVICOS CODHAB",
+        "ide_camada": "Nascente - Por do Sol",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/143",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/nascente___por_do_sol.zip",
+        "ide_metadado": "61c5825b-aa84-415f-b9d6-f5d3d238f7a7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Area do PRAD - Por do Sol": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "GEOSERVICOS CODHAB",
+        "ide_camada": "Area do PRAD - Por do Sol",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/144",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_do_prad___por_do_sol.zip",
+        "ide_metadado": "7f7770a5-3106-44cb-9d9f-90d5e09d90c7",
+        "ide_visualizacao": null
+    },
+    "SEDUH_APP Curso d'agua - Por do Sol": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "GEOSERVICOS CODHAB",
+        "ide_camada": "APP Curso d'agua - Por do Sol",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/145",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/app_curso_d'agua___por_do_sol.zip",
+        "ide_metadado": "14b5de97-514e-404c-9997-229ce2e9c46c",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Area do Prad - SHSN": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "GEOSERVICOS CODHAB",
+        "ide_camada": "Area do Prad - SHSN",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/146",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_do_prad___shsn.zip",
+        "ide_metadado": "8b03a005-e8ae-4710-8764-43a89505db82",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Area de Periculosidade - SHSN": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "GEOSERVICOS CODHAB",
+        "ide_camada": "Area de Periculosidade - SHSN",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/147",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_de_periculosidade___shsn.zip",
+        "ide_metadado": "ab238f53-e8fa-42a5-9eb1-62d5348799db",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Lagos e Barragens": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "HIDROGRAFIA",
+        "ide_camada": "Lagos e Barragens",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/150",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/lagos_e_barragens.zip",
+        "ide_metadado": "0d16cac3-2eb9-4829-92c8-c0b6dca592e5",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Rios e Corregos": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "HIDROGRAFIA",
+        "ide_camada": "Rios e Corregos",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/152",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/rios_e_corregos.zip",
+        "ide_metadado": "9e01e30f-bbfc-438a-8ff5-9bbdf9403b36",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Unidades Hidrograficas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "HIDROGRAFIA",
+        "ide_camada": "Unidades Hidrograficas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/153",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/unidades_hidrograficas.zip",
+        "ide_metadado": "84463932-880a-4d0d-a7c9-0dc1ce64c4db",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Circunscricao TJDFT": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LIMITES",
+        "ide_camada": "Circunscricao TJDFT",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/155",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/circunscricao_tjdft.zip",
+        "ide_metadado": "ecadcc40-e79b-46a3-b872-1060e53f5a77",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Regioes Administrativas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LIMITES",
+        "ide_camada": "Regioes Administrativas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/157",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/regioes_administrativas.zip",
+        "ide_metadado": "7c6ebdb7-3159-46cd-8719-c444b2643aad",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Localidades": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LOCALIDADES",
+        "ide_camada": "Localidades",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/160",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/localidades.zip",
+        "ide_metadado": "1e355662-3063-434a-b1be-15d2a2087b19",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Curvas de Nivel de 5m de 2009": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CURVAS DE NIVEL",
+        "ide_camada": "Curvas de Nivel de 5m de 2009",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/162",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/curvas_de_nivel_de_5m_de_2009.zip",
+        "ide_metadado": "38baaaa8-a3c8-4c06-81dc-89ac03d6b412",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Curvas de Nivel de 1m de 1997": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CURVAS DE NIVEL",
+        "ide_camada": "Curvas de Nivel de 1m de 1997",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/163",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/curvas_de_nivel_de_1m_de_1997.zip",
+        "ide_metadado": "08e242cd-9275-4d21-9ccb-235ad0cd3dfe",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Curvas de Nivel de 1m de 2016": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "CURVAS DE NIVEL",
+        "ide_camada": "Curvas de Nivel de 1m de 2016",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/164",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/curvas_de_nivel_de_1m_de_2016.zip",
+        "ide_metadado": "0d047765-fc85-4ca6-94a1-e2748a3e4614",
+        "ide_visualizacao": null
+    },
+    "SEDUH_AREA TOMBADA": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "LIMITES",
+        "ide_camada": "AREA TOMBADA",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/166",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/area_tombada.zip",
+        "ide_metadado": "5a7a5d3f-4b0c-42cc-a2f2-a1fd2877e3af",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Declividade das Vias": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Declividade das Vias",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/169",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/declividade_das_vias.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Distritos Rodoviarios": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Distritos Rodoviarios",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/170",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/distritos_rodoviarios.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Eixo das Vias internas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Eixo das Vias internas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/172",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/eixo_das_vias_internas.zip",
+        "ide_metadado": "4e211d49-aeca-4c86-b5c1-656f0818a595",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Eixo do Caminho carrocavel": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Eixo do Caminho carrocavel",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/173",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/eixo_do_caminho_carrocavel.zip",
+        "ide_metadado": "4e211d49-aeca-4c86-b5c1-656f0818a595",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Eixo dos Viadutos": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Eixo dos Viadutos",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/174",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/eixo_dos_viadutos.zip",
+        "ide_metadado": "4e211d49-aeca-4c86-b5c1-656f0818a595",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Eixo das Pontes": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Eixo das Pontes",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/175",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/eixo_das_pontes.zip",
+        "ide_metadado": "4e211d49-aeca-4c86-b5c1-656f0818a595",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Eixo das Travessias de Pedestres": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Eixo das Travessias de Pedestres",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/176",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/eixo_das_travessias_de_pedestres.zip",
+        "ide_metadado": "4e211d49-aeca-4c86-b5c1-656f0818a595",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Eixo das Trilhas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Eixo das Trilhas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/177",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/eixo_das_trilhas.zip",
+        "ide_metadado": "4e211d49-aeca-4c86-b5c1-656f0818a595",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Eixo do Trecho de Arruamento": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Eixo do Trecho de Arruamento",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/178",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/eixo_do_trecho_de_arruamento.zip",
+        "ide_metadado": "4e211d49-aeca-4c86-b5c1-656f0818a595",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Eixo do Trecho Rodoviario": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Eixo do Trecho Rodoviario",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/179",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/eixo_do_trecho_rodoviario.zip",
+        "ide_metadado": "4e211d49-aeca-4c86-b5c1-656f0818a595",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Margem de Via": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Margem de Via",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/180",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/margem_de_via.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Estacionamentos": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Estacionamentos",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/181",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/estacionamentos.zip",
+        "ide_metadado": "e800a158-490f-4b30-ba26-dfb63947d3e8",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Faixa de Dominio": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Faixa de Dominio",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/182",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/faixa_de_dominio.zip",
+        "ide_metadado": "102dffe5-73b0-45a1-bf79-bb3cc497f84d",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Pontes Viadutos e Passarelas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Pontes Viadutos e Passarelas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/183",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/pontes_viadutos_e_passarelas.zip",
+        "ide_metadado": "c34919ca-f4d0-48e4-9cb3-383aea798b6e",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Rodovia": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Rodovia",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/184",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/rodovia.zip",
+        "ide_metadado": "19723eeb-d6b3-40ab-9d6b-0b32356c0a56",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Sistema Cicloviario": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "SISTEMA VIARIO",
+        "ide_camada": "Sistema Cicloviario",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/185",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/sistema_cicloviario.zip",
+        "ide_metadado": "132fa065-9580-4e05-86b3-d56183d15f72",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Estacao de Metro": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "TRANSPORTE PUBLICO",
+        "ide_camada": "Estacao de Metro",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/199",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/estacao_de_metro.zip",
+        "ide_metadado": "d192912c-c67c-401d-bdd5-30a4d13f781b",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Linha de Metro": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "TRANSPORTE PUBLICO",
+        "ide_camada": "Linha de Metro",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/200",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/linha_de_metro.zip",
+        "ide_metadado": "54acf9a8-799f-4c9c-82eb-c1aedc4d53cc",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 2019": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 2019",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/203",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_2019.zip",
+        "ide_metadado": "667f692c-def2-461b-89e6-da098a9b2fba",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 2009": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 2009",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/204",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_2009.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 2001": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 2001",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/205",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_2001.zip",
+        "ide_metadado": "d588f775-9815-4b20-a500-1fe511f8abfb",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 1998": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 1998",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/206",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_1998.zip",
+        "ide_metadado": "f40cfd11-4edc-451c-b27c-2c53ba224a57",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 1994": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 1994",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/207",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_1994.zip",
+        "ide_metadado": "f75309d7-a27c-41ac-b5d3-7a28ed615b20",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 1984": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 1984",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/208",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_1984.zip",
+        "ide_metadado": "a9c8c6b0-9841-40c3-87c3-92b83926b63f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 1973": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 1973",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/209",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_1973.zip",
+        "ide_metadado": "53e224bd-68fb-4d12-9fe6-4076b6eb48ed",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 1964": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 1964",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/210",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_1964.zip",
+        "ide_metadado": "PENDENTE",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cobertura do Solo 1954": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cobertura do Solo 1954",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/211",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cobertura_do_solo_1954.zip",
+        "ide_metadado": "e0567469-a540-4096-b901-4ee193806389",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Massa arborea": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Massa arborea",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/213",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/massa_arborea.zip",
+        "ide_metadado": "155cf70f-afa1-4e8b-a74d-39d3b965cd1f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Cerrado": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Cerrado",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/214",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/cerrado.zip",
+        "ide_metadado": "155cf70f-afa1-4e8b-a74d-39d3b965cd1f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Vegetacao natural": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Vegetacao natural",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/215",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/vegetacao_natural.zip",
+        "ide_metadado": "155cf70f-afa1-4e8b-a74d-39d3b965cd1f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Vegetacao cultivada": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Vegetacao cultivada",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/216",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/vegetacao_cultivada.zip",
+        "ide_metadado": "155cf70f-afa1-4e8b-a74d-39d3b965cd1f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Vegetacao": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Vegetacao",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/217",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/vegetacao.zip",
+        "ide_metadado": "155cf70f-afa1-4e8b-a74d-39d3b965cd1f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Arvores isoladas": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Arvores isoladas",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/218",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/arvores_isoladas.zip",
+        "ide_metadado": "155cf70f-afa1-4e8b-a74d-39d3b965cd1f",
+        "ide_visualizacao": null
+    },
+    "SEDUH_Jardins": {
+        "ide_orgao": "SEDUH",
+        "ide_acesso": "PUBLICO",
+        "ide_tematica": "VEGETACAO",
+        "ide_camada": "Jardins",
+        "ide_geoservico": "https://www.geoservicos1.segeth.df.gov.br/arcgis/rest/services/Geoportal/ide_df/MapServer/219",
+        "ide_download": "https://www.geoservicos1.segeth.df.gov.br/shp_files/jardins.zip",
+        "ide_metadado": "155cf70f-afa1-4e8b-a74d-39d3b965cd1f",
+        "ide_visualizacao": null
+    }
+}
